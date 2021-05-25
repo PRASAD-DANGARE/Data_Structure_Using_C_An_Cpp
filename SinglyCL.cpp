@@ -20,8 +20,8 @@ typedef struct node
 
 //////////////////////////////////////////////////
 //
-// Class Name  :  SinglyLL
-// Description : This Class represents Singly linear linked list
+// Class Name  :  SinglyCL
+// Description : This Class represents Singly Circular linked list
 //
 //////////////////////////////////////////////////
 
@@ -37,11 +37,11 @@ class SinglyCL
     ////////////////////////////////////////////////////////////
     //
     //
-    // Class Name       :   SinglyLL
+    // Class Name       :   SinglyCL
     // Function Date    :   14 May 2021
     // Function Author  :   Prasad Dangare
     // Parameters       :   NONE
-    // Description      :   This Is Constructor Of Class SinglyLL
+    // Description      :   This Is Constructor Of Class SinglyCL
     //
     // Returns          :   NONE
     //
@@ -163,7 +163,7 @@ class SinglyCL
     // Function Name    :   Display()
     // Function Date    :   14 May 2021
     // Function Author  :   Prasad Dangare
-    // Parameters       :   PPNODE Head
+    // Parameters       :   ----
     // Description      :   Display Function Display The Nodes In LinkedList 
     //
     // Returns          :   NONE
