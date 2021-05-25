@@ -192,7 +192,7 @@ class SinglyCL
     // Function Name    :   Display()
     // Function Date    :   17 May 2021
     // Function Author  :   Prasad Dangare
-    // Parameters       :   PPNODE Head
+    // Parameters       :   ----
     // Description      :   Display Function Display The Nodes In LinkedList 
     //
     // Returns          :   NONE
