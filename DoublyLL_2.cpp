@@ -62,7 +62,7 @@ class DoublyLL
     // Function Date    :   17 May 2021
     // Function Author  :   Prasad Dangare
     // Parameters       :   NONE
-    // Description      :   This Is Distructor Of Class DoublyLL
+    // Description      :   This Is Distructor Of Class ~DoublyLL
     //
     // Returns          :   NONE
     //
