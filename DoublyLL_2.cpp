@@ -21,8 +21,8 @@ typedef struct node
 
 //////////////////////////////////////////////////
 //
-// Class Name  :  DoublyCL
-// Description : This Class represents Doubly Circular linked list
+// Class Name  :  DoublyLL
+// Description : This Class represents Doubly Linear linked list
 //
 //////////////////////////////////////////////////
 
