@@ -36,11 +36,11 @@ class DoublyCL
     ////////////////////////////////////////////////////////////
     //
     //
-    // Class Name       :   DoublyLL
+    // Class Name       :   DoublyCL
     // Function Date    :   14 May 2021
     // Function Author  :   Prasad Dangare
     // Parameters       :   NONE
-    // Description      :   This Is Constructor Of Class DoublyLL
+    // Description      :   This Is Constructor Of Class DoublyCL
     //
     // Returns          :   NONE
     //
