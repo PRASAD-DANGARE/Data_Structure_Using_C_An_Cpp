@@ -43,7 +43,7 @@ class SinglyCL
     // Function Date    :   17 May 2021
     // Function Author  :   Prasad Dangare
     // Parameters       :   NONE
-    // Description      :   This Is Constructor Of Class SinglyLL
+    // Description      :   This Is Constructor Of Class SinglyCL
     //
     // Returns          :   NONE
     //
@@ -65,7 +65,7 @@ class SinglyCL
     // Function Date    :   14 May 2021
     // Function Author  :   Prasad Dangare
     // Parameters       :   NONE
-    // Description      :   This Is Distructor Of Class SinglyCL
+    // Description      :   This Is Distructor Of Class ~SinglyCL
     //
     // Returns          :   NONE
     //
